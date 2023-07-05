@@ -1,0 +1,148 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/ryagi/github/learning/c-learning/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+BUFSIZE	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^#define BUFSIZE /;"	d	file:
+CC	udemy-advanced-c-programming/section05/002-extern/Makefile	/^CC=gcc$/;"	m
+CC	udemy-advanced-c-programming/section05/005-shared/Makefile	/^CC=gcc$/;"	m
+CFLAGS	udemy-advanced-c-programming/section05/002-extern/Makefile	/^CFLAGS= -c -Wall$/;"	m
+CFLAGS	udemy-advanced-c-programming/section05/005-shared/Makefile	/^CFLAGS= -c -Wall$/;"	m
+COLS	c-programming-a-modern-approach/chapter08/randomwalk/randomwalk.c	/^#define COLS /;"	d	file:
+CUBIC_INCHES_PER_POUND	c-programming-a-modern-approach/chapter02/003-dweight2/dweight2.c	/^#define CUBIC_INCHES_PER_POUND /;"	d	file:
+CUB_IN_PER_LB	c-programming-a-modern-approach/chapter02/002-dweight/dweight.c	/^#define CUB_IN_PER_LB$/;"	d	file:
+CUB_IN_PER_LB	c-programming-a-modern-approach/chapter02/007-dweightCondensed/dweight.c	/^#define CUB_IN_PER_LB$/;"	d	file:
+DECKSIZE	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^#define DECKSIZE /;"	d	file:
+DIRECTIONS	c-programming-a-modern-approach/chapter08/randomwalk/randomwalk.c	/^#define DIRECTIONS /;"	d	file:
+FREEZING_PT	c-programming-a-modern-approach/chapter02/004-FtoC/ftoc.c	/^#define FREEZING_PT /;"	d	file:
+GRID_SIZE	udemy-advanced-c-programming/sudoku/sudoku.c	/^#define GRID_SIZE /;"	d	file:
+LOWER	the-c-programming-language-KR/chapter01/temperatures/fahrenheit_2_celsius.c	/^#define     LOWER /;"	d	file:
+MAXHANDSIZE	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^#define MAXHANDSIZE /;"	d	file:
+MAXLEN	the-c-programming-language-KR/chapter04/reversestr/reversestr.c	/^#define MAXLEN /;"	d	file:
+MAXLINE	the-c-programming-language-KR/chapter01/arrays/chararr.c	/^#define MAXLINE /;"	d	file:
+MAXOP	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^#define MAXOP /;"	d	file:
+MAXVAL	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^#define MAXVAL /;"	d	file:
+MAX_LEN	the-c-programming-language-KR/chapter01/arrays/word_len.c	/^#define MAX_LEN /;"	d	file:
+MAX_MESSAGE_LEN	c-programming-a-modern-approach/chapter08/biff/biff.c	/^#define MAX_MESSAGE_LEN /;"	d	file:
+NUMBER	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^#define NUMBER /;"	d	file:
+PI	c-programming-a-modern-approach/chapter02/009-vsphere/vsphere.c	/^#define PI /;"	d	file:
+PI	c-programming-a-modern-approach/chapter02/010-vsphere-user/vsphere.c	/^#define PI /;"	d	file:
+ROWS	c-programming-a-modern-approach/chapter08/randomwalk/randomwalk.c	/^#define ROWS /;"	d	file:
+SCALE_FACTOR	c-programming-a-modern-approach/chapter02/004-FtoC/ftoc.c	/^#define SCALE_FACTOR /;"	d	file:
+STEP	the-c-programming-language-KR/chapter01/temperatures/fahrenheit_2_celsius.c	/^#define     STEP /;"	d	file:
+TABLEN	the-c-programming-language-KR/chapter01/practice/detab.c	/^#define TABLEN /;"	d	file:
+TAX	c-programming-a-modern-approach/chapter02/011-taxcalc/taxcalc.c	/^#define TAX /;"	d	file:
+TEST	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^TEST(sprintf, InsertString)$/;"	f
+TEST	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^TEST(sprintf, NoFormatOperations)$/;"	f
+TEST_SETUP	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^TEST_SETUP(sprintf)$/;"	f
+TEST_TEAR_DOWN	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^TEST_TEAR_DOWN(sprintf)$/;"	f
+UPPER	the-c-programming-language-KR/chapter01/temperatures/fahrenheit_2_celsius.c	/^#define     UPPER /;"	d	file:
+YEAR_OFFSET	c-programming-bootcamp/section-09/001-yearofbirth/birthYear.c	/^#define YEAR_OFFSET /;"	d	file:
+all	udemy-advanced-c-programming/section05/002-extern/Makefile	/^all: prog$/;"	t
+all	udemy-advanced-c-programming/section05/005-shared/Makefile	/^all: prog$/;"	t
+buf	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^char buf[BUFSIZE];  \/* buffer for ungetch *\/$/;"	v	typeref:typename:char[]
+bufp	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^int bufp = 0;       \/* next free position in buf *\/$/;"	v	typeref:typename:int
+clean	udemy-advanced-c-programming/section05/002-extern/Makefile	/^clean:$/;"	t
+clean	udemy-advanced-c-programming/section05/005-shared/Makefile	/^clean:$/;"	t
+copy	the-c-programming-language-KR/chapter01/arrays/chararr.c	/^void copy(char to[], chsr from[])$/;"	f	typeref:typename:void
+deal_card	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^int deal_card(int deck[], int hand[])$/;"	f	typeref:typename:int
+display.o	udemy-advanced-c-programming/section05/005-shared/Makefile	/^display.o: display.c$/;"	t
+display_grid	udemy-advanced-c-programming/sudoku/sudoku.c	/^void display_grid(int array[GRID_SIZE][GRID_SIZE])$/;"	f	typeref:typename:void
+expect	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^static void expect(const char * s)$/;"	f	typeref:typename:void	file:
+expected	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^static const char * expected;$/;"	v	typeref:typename:const char *	file:
+extVar	udemy-advanced-c-programming/section05/002-extern/extern.c	/^int extVar = 100;$/;"	v	typeref:typename:int
+extern.o	udemy-advanced-c-programming/section05/002-extern/Makefile	/^extern.o: extern.c$/;"	t
+fahr2cel	the-c-programming-language-KR/chapter01/functions/temp_converstion.c	/^int fahr2cel(int fahr)$/;"	f	typeref:typename:int
+foo	udemy-advanced-c-programming/section05/001-auto/auto.c	/^int foo(void)$/;"	f	typeref:typename:int
+foo	udemy-advanced-c-programming/section05/002-extern/vars.c	/^void foo(void)$/;"	f	typeref:typename:void
+foo	udemy-advanced-c-programming/section05/003-challenge/main.c	/^static void foo(void) $/;"	f	typeref:typename:void	file:
+foo	udemy-advanced-c-programming/section05/005-shared/display.c	/^void foo(void)$/;"	f	typeref:typename:void
+generate_puzzle	udemy-advanced-c-programming/sudoku/sudoku.c	/^void generate_puzzle(int array[GRID_SIZE][GRID_SIZE])$/;"	f	typeref:typename:void
+get_digits	c-programming-a-modern-approach/chapter05/digitcount/digitcount.c	/^int get_digits(int n) $/;"	f	typeref:typename:int
+get_hand_val	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^int get_hand_val(int playerhand[])$/;"	f	typeref:typename:int
+get_suit	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^int get_suit(int i)$/;"	f	typeref:typename:int
+get_val	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^int get_val(int i)$/;"	f	typeref:typename:int
+getch	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^int getch(void)$/;"	f	typeref:typename:int
+getline	the-c-programming-language-KR/chapter01/arrays/chararr.c	/^int getline(char s[], int lim)$/;"	f	typeref:typename:int
+getop	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^int getop(char s[])$/;"	f	typeref:typename:int
+given	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^static void given(int charsWritten)$/;"	f	typeref:typename:void	file:
+i	udemy-advanced-c-programming/section05/005-shared/main.c	/^int i;$/;"	v	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/001-pun/pun.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/002-dweight/dweight.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/003-dweight2/dweight2.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/004-FtoC/ftoc.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/005-helloWorld/hello.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/006-parkinson/parkinson.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/007-dweightCondensed/dweight.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/008-nike/nike.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/009-vsphere/vsphere.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/010-vsphere-user/vsphere.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/011-taxcalc/taxcalc.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/012-polynomial/polynomial.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/013-amountsplit/amountsplit.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter02/014-loanpayment/loanpayment.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter03/001-printf-formatting/main.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter04/001-reversal/reversal.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter04/002-octal/octal.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter04/003-upc/upc.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter05/digit2text/digit2text.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter05/digitcount/digitcount.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter06/gcd/gcd.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter06/largestnum/largestnum.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter08/biff/biff.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-a-modern-approach/chapter08/randomwalk/randomwalk.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-bootcamp/section-09/001-yearofbirth/birthYear.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-programming-bootcamp/section-09/002-area/area.c	/^int main(void)$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/arrays/char_count.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/arrays/chararr.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/arrays/word_len.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/echo/char_count.c	/^main()$/;"	f
+main	the-c-programming-language-KR/chapter01/echo/echo.c	/^main()$/;"	f
+main	the-c-programming-language-KR/chapter01/echo/show_invisible.c	/^main()$/;"	f
+main	the-c-programming-language-KR/chapter01/echo/trunc_blanks.c	/^main()$/;"	f
+main	the-c-programming-language-KR/chapter01/fizzbuzz/fizzbuzz.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/functions/functions.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/functions/temp_converstion.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/hello-world/hello-world.c	/^main()$/;"	f
+main	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/practice/detab.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/temperatures/celsius_2_fahrenheit.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter01/temperatures/fahrenheit_2_celsius.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter02/2-1/main.c	/^int main()$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^int main(void) {$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter04/reversestr/reversestr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	the-c-programming-language-KR/chapter04/scope/scope.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section03/001-setup/setup.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section05/001-auto/auto.c	/^int main(void) $/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section05/002-extern/extern.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section05/003-challenge/main.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section05/004-sum/sum.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section05/005-shared/main.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/section06/001-var_len_arrays/vlen_arr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-advanced-c-programming/sudoku/sudoku.c	/^int main(void)$/;"	f	typeref:typename:int
+main	udemy-c-programming-masterclass/section02-pointers-intro/001-pointers/pointers.c	/^int main(void)$/;"	f	typeref:typename:int
+main.o	udemy-advanced-c-programming/section05/005-shared/Makefile	/^main.o: main.c$/;"	t
+output	test-driven-development-for-embedded-c/chapter02/sprintftest/SprintfTest.c	/^static char output[100];$/;"	v	typeref:typename:char[100]	file:
+pop	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^double pop(void) {$/;"	f	typeref:typename:double
+power	the-c-programming-language-KR/chapter01/functions/functions.c	/^int power(int base, int n)$/;"	f	typeref:typename:int
+print_card	the-c-programming-language-KR/chapter01/practice/blackjack.c	/^void print_card(int i)$/;"	f	typeref:typename:void
+prog	udemy-advanced-c-programming/section05/002-extern/Makefile	/^prog: extern.o vars.o$/;"	t
+prog	udemy-advanced-c-programming/section05/005-shared/Makefile	/^prog: main.o display.o$/;"	t
+push	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^void push(double f) {$/;"	f	typeref:typename:void
+reverse_str	the-c-programming-language-KR/chapter04/reversestr/reversestr.c	/^void reverse_str(char string[], int first, int last)$/;"	f	typeref:typename:void
+sp	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^int sp = 0;         \/* next free stack position *\/$/;"	v	typeref:typename:int
+sudoku	udemy-advanced-c-programming/sudoku/sudoku.c	/^int sudoku[GRID_SIZE][GRID_SIZE];$/;"	v	typeref:typename:int[][]
+sum	udemy-advanced-c-programming/section05/004-sum/sum.c	/^int sum(int num)$/;"	f	typeref:typename:int
+swap	the-c-programming-language-KR/chapter04/reversestr/reversestr.c	/^void swap(char string[], int x, int y)$/;"	f	typeref:typename:void
+total_strlen	the-c-programming-language-KR/chapter04/reversestr/reversestr.c	/^int total_strlen(char string[])$/;"	f	typeref:typename:int
+ungetch	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^void ungetch(int c)$/;"	f	typeref:typename:void
+val	the-c-programming-language-KR/chapter04/reverse_polish_calculator/reverse_polish_calculator.c	/^double val[MAXVAL]; \/* the value stack *\/$/;"	v	typeref:typename:double[]
+val	udemy-advanced-c-programming/section05/003-challenge/main.c	/^static double val = 3.1415;$/;"	v	typeref:typename:double	file:
+vars.o	udemy-advanced-c-programming/section05/002-extern/Makefile	/^vars.o: vars.c$/;"	t
+zero_grid	udemy-advanced-c-programming/sudoku/sudoku.c	/^void zero_grid(int array[GRID_SIZE][GRID_SIZE])$/;"	f	typeref:typename:void
