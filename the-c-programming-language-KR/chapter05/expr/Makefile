@@ -1,14 +1,17 @@
-CC=gcc
-CFLAGS=-Wall
-TARGET=expr
+CC       = gcc
+CFLAGS   = -Wall -g
+LDFLAGS  =
+DEPS	 = calc.h
+OBJFILES = getop.o stack.o expr.o
+TARGET   = expr
 
 all: ${TARGET}
 
-%.o: %.c %.h
-	$(CC) $(CFLAGS) -o $@ $^
+%.o: %.c $(DEPS)
+	$(CC) $(CFLAGS) -c -o $@ $<
 
-$(TARGET): getop.o stack.o calc.h expr.c
-	$(CC) $(CFLAGS) -o $@ $^
+$(TARGET): $(OBJFILES) $(DEPS)
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJFILES) $(LDFLAGS)
 
 clean:
-	rm -f *.o expr
+	rm -f $(OBJFILES) $(TARGET) *~ *.gch
